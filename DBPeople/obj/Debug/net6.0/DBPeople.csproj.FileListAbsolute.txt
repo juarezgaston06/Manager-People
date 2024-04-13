@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\GitHub\Manager-People\DBPeople\bin\Debug\net6.0\DBPeople.deps.json
+C:\Users\Usuario\Documents\GitHub\Manager-People\DBPeople\bin\Debug\net6.0\DBPeople.runtimeconfig.json
+C:\Users\Usuario\Documents\GitHub\Manager-People\DBPeople\bin\Debug\net6.0\DBPeople.dll
+C:\Users\Usuario\Documents\GitHub\Manager-People\DBPeople\bin\Debug\net6.0\DBPeople.pdb
+C:\Users\Usuario\Documents\GitHub\Manager-People\DBPeople\obj\Debug\net6.0\DBPeople.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\Manager-People\DBPeople\obj\Debug\net6.0\DBPeople.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\GitHub\Manager-People\DBPeople\obj\Debug\net6.0\DBPeople.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\GitHub\Manager-People\DBPeople\obj\Debug\net6.0\DBPeople.AssemblyInfo.cs
+C:\Users\Usuario\Documents\GitHub\Manager-People\DBPeople\obj\Debug\net6.0\DBPeople.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\Manager-People\DBPeople\obj\Debug\net6.0\DBPeople.dll
+C:\Users\Usuario\Documents\GitHub\Manager-People\DBPeople\obj\Debug\net6.0\refint\DBPeople.dll
+C:\Users\Usuario\Documents\GitHub\Manager-People\DBPeople\obj\Debug\net6.0\DBPeople.pdb
+C:\Users\Usuario\Documents\GitHub\Manager-People\DBPeople\obj\Debug\net6.0\DBPeople.genruntimeconfig.cache
+C:\Users\Usuario\Documents\GitHub\Manager-People\DBPeople\obj\Debug\net6.0\ref\DBPeople.dll
