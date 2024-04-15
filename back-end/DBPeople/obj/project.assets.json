@@ -2012,11 +2012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\DBPeople\\DBPeople.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\back-end\\DBPeople\\DBPeople.csproj",
       "projectName": "DBPeople",
-      "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\DBPeople\\DBPeople.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\back-end\\DBPeople\\DBPeople.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\DBPeople\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\back-end\\DBPeople\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

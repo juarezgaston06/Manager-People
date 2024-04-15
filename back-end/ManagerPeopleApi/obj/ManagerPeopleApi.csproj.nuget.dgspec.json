@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\ManagerPeopleApi\\ManagerPeopleApi.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\back-end\\ManagerPeopleApi\\ManagerPeopleApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\DBPeople\\DBPeople.csproj": {
+    "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\back-end\\DBPeople\\DBPeople.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\DBPeople\\DBPeople.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\back-end\\DBPeople\\DBPeople.csproj",
         "projectName": "DBPeople",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\DBPeople\\DBPeople.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\back-end\\DBPeople\\DBPeople.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\DBPeople\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\back-end\\DBPeople\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\ManagerPeopleApi\\ManagerPeopleApi.csproj": {
+    "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\back-end\\ManagerPeopleApi\\ManagerPeopleApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\ManagerPeopleApi\\ManagerPeopleApi.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\back-end\\ManagerPeopleApi\\ManagerPeopleApi.csproj",
         "projectName": "ManagerPeopleApi",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\ManagerPeopleApi\\ManagerPeopleApi.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\back-end\\ManagerPeopleApi\\ManagerPeopleApi.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\ManagerPeopleApi\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\back-end\\ManagerPeopleApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -95,8 +95,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\DBPeople\\DBPeople.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\DBPeople\\DBPeople.csproj"
+              "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\back-end\\DBPeople\\DBPeople.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\back-end\\DBPeople\\DBPeople.csproj"
               }
             }
           }

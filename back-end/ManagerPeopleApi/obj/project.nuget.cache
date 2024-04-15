@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UAS3U2Uq/oo9ApJw7odTWeV75+m6tEPff0l9MGF4wXvlpbnWofLv/j10OSs0rwe7qEjuOuzC9h5kmNQOpG3TXQ==",
+  "dgSpecHash": "YpxSAbIrfhvHKK+GNwFz0ji1/vTVMrp3XVunywI0Wf+CRFmIDtHH1vWq+/erI/Ia4qzRjCxen3lQ2svESqgqTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\ManagerPeopleApi\\ManagerPeopleApi.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\back-end\\ManagerPeopleApi\\ManagerPeopleApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

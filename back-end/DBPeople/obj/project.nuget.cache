@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1bj3JhIx+ETV6GVZNUm15IB6hOXggRoHu/hi90qG2OP/LqpOexN/3wMnOYOkAwmyv5WwgyO8eWPjYlctDzMq6g==",
+  "dgSpecHash": "BVLBx+AEr5nW0lS3wdc2cnOQr6vKNHaukptEjZlZpPJLokxofo9nuvl9k9N7NoRutRFcWLAgrrIYw/n/NggNsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\DBPeople\\DBPeople.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\GitHub\\Manager-People\\back-end\\DBPeople\\DBPeople.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
