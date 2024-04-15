@@ -25,6 +25,15 @@ namespace DBPeople
             modelBuilder.Entity<Person>()
                 .HasIndex(p => p.DNI)
                 .IsUnique();
+
+            modelBuilder.Entity<Province>().HasData(
+         new Province { Id = 1, Name="Cordoba"},
+         new Province { Id = 2, Name = "Buenos Aires" },
+         new Province { Id = 3, Name = "Formosa" },
+         new Province { Id = 4, Name = "Entre Rios" },
+         new Province { Id = 5, Name = "San Luis" }
+
+     );
         }
     }
 }
